@@ -1,5 +1,5 @@
 {
-  "name": "@aravindkarteekr/react-cache-clean",
+  "name": "react-cache-clean",
   "version": "1.0.0",
   "description": "A simple modern utility to clear cache and reload the application.",
   "keywords": [

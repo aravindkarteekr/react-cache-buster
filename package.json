@@ -1,0 +1,23 @@
+{
+  "name": "react-cache-clean",
+  "version": "1.0.0",
+  "description": "A simple modern utility to clear cache and reload the application.",
+  "keywords": [
+    "cache-clean",
+    "react-cache-clean",
+    "react-cache-buster"
+  ],
+  "license": "ISC",
+  "author": "ak",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.13"
+  }
+}
